@@ -1,3 +1,3 @@
 # leetcode-exercises
 
-What I have written for leetcode questions. Just for fun.
+[![Leetcode Stats](https://leetcard.jacoblin.cool/yuanw10?theme=unicorn?ext=heatmap)](https://leetcode.com/yuanw10)
